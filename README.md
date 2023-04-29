@@ -18,7 +18,7 @@ You can do so with the following instructions.
 
 ### Compile :
     $ make
-        Handles the compiling process, assembling and linking the sources to get the final executable file.
+        Handles compiling, linking and assembling the sources in a final executable file.
 
 ### Run :
     $ make run
